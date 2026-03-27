@@ -253,7 +253,7 @@ export function Navigation() {
                     </Link>
                   </Button>
                   <p className="text-center text-xs text-muted-foreground mt-4">
-                    &copy; {new Date().getFullYear()} APRATIONAL
+                    &copy; {new Date().getFullYear()} APM ENERGY
                   </p>
                 </div>
               </div>
