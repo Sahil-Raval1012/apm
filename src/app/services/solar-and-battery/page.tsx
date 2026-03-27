@@ -12,7 +12,7 @@ export default function SolarPage() {
         <div className="absolute inset-0 z-0">
           <Image 
             src="https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=2064&auto=format&fit=crop" 
-            alt="Solar Panels" 
+            alt="Solar-Panels" 
             fill 
             className="object-cover opacity-40"
           />
